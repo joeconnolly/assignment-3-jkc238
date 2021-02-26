@@ -1,0 +1,26 @@
+---
+title: "Rotifera of the Laurentian Great Lakes "
+author: " "
+date: " "
+output: html_document
+---
+
+
+
+### An Online Image Based Key to Planktonic Fauna
+
+![](https://cdn.hswstatic.com/gif/great-lakes-great.jpg)
+
+![*Conochilus unicornis* colony](http://www.microscopy-uk.org.uk/mag/imgsep98/cono1.jpg)
+
+**Contributors:**
+
+* Joe Connolly^a^ (https://github.com/joeconnolly)
+
+* Chris Marshall^a^ (https://github.com/cmarshall178)
+
+* TBD^b^
+
+^a^ Cornell University, Department of Natural Resources, Cornell Biological Field Station, Bridgeport, NY 13030
+
+^b^ TBD

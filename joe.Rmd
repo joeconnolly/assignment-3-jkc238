@@ -1,0 +1,29 @@
+---
+title: "Joe Connolly"
+author: ""
+date: ""
+output: html_document
+---
+
+
+<br>
+
+1. **Reseach Technician III** - Cornell Biological Field Station, Bridgeport, NY
+
+2. **Master's of Science Candidate** - Cornell University, Department of Natural Resources, Ithaca, NY
+
+3. **Research Interests** - 
+
+* Zooplankton 
+
+* Meiofuana 
+
+* Crustacea 
+
+* Roftifera 
+
+* Limnology 
+
+* Aquatic Ecology
+
+* Invasive Species 
